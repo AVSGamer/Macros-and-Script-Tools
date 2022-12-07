@@ -1,0 +1,1 @@
+Get-Monitor | Select-Object -skip 1 | Select-Object -First 1 | Set-WallPaper -Path C:\Users\Lorman\Pictures\Wallpapers\Scripted\BLACK.jpg
