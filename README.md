@@ -9,6 +9,7 @@ LeftJoystick2Mouse.ahk          <br>- Modified version of the AutoHotkey Script 
 OnBStacksExit.ps1               <br>- Powershell script to terminate an ahk file that is launched automatically on BStacks Launch.                      <br>
 OnOBSExit.ps1                   <br>- Script to change my Second Monitor's Wallpaper upon OBS termination.                                              <br>
 OnOBSLaunch.ps1                 <br>- Script to change my Second Monitor's Wallpaper upon OBS launch.                                                   <br>
+linuxCursorMaker.sh             <br>- Linux script to automate X11 Cursor creation.                                                                     <br>
 README.md                       <br>- This file you are reading right now.                                                                              <br>
 
 Powershell scripts are auto-run by PC events through Window's Task Scheduler.                                                                           <br>
